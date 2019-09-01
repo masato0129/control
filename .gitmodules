@@ -1,0 +1,9 @@
+[submodule "path_planning"]
+	path = path_planning
+	url = https://github.com/masato0129/path_planning.git
+[submodule "motion_contorl"]
+	path = motion_contorl
+	url = https://github.com/masato0129/motion_contorl.git
+[submodule "device_control"]
+	path = device_control
+	url = https://github.com/masato0129/device_control.git
