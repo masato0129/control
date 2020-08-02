@@ -5,16 +5,16 @@ AUV制御用のリポジトリ
 
 経路計画関連のディレクトリ
 
-jetsonに搭載するプログラムを想定
+jetson nanoに搭載するプログラムを想定
 
 # motion_control
 
 運動制御関連のディレクトリ
 
-raspberry piに搭載するプログラムを想定
+jetson nanoに搭載するプログラムを想定
 
 # device_control
 
-装置制御関連のディレクトリ
+装置制御関連(推進機,imu,深度器)のディレクトリ
 
-arduinoに搭載するプログラムを想定
+arduino microに搭載するプログラムを想定
